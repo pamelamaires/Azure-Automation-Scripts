@@ -1,6 +1,9 @@
-# Azure-Automation-Scripts
-Automatic scripts for Azure
 # Azure Automation Scripts
+
+![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub stars](https://img.shields.io/github/stars/<seu_usuario>/Azure-Automation-Scripts.svg)
+![GitHub forks](https://img.shields.io/github/forks/<seu_usuario>/Azure-Automation-Scripts.svg)
+
 Automated scripts for Azure, streamlining tasks and improving efficiency.
 
 ## Features
@@ -15,3 +18,4 @@ Automated scripts for Azure, streamlining tasks and improving efficiency.
 
 ## License
 This project is licensed under the MIT License.
+
